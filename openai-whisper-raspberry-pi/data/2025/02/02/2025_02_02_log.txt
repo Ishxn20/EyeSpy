@@ -1,0 +1,595 @@
+Starting transcode...
+ AiWhisper init: TIME 12191 
+ Empty database. Sleeping...
+ AI Processing Iteration 1: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 2: TIME 5004 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 3: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 4: TIME 5003 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 5: TIME 5004 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 6: TIME 5003 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 7: TIME 5005 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 8: TIME 5004 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 9: TIME 5003 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 10: TIME 5007 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 11: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 12: TIME 5005 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 13: TIME 5010 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 14: TIME 5004 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 15: TIME 5010 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 16: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 17: TIME 5005 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 18: TIME 5004 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 19: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 20: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 21: TIME 5004 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 22: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 23: TIME 5002 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 24: TIME 5002 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 25: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 26: TIME 5005 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 27: TIME 5007 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 28: TIME 5003 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 29: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 30: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 31: TIME 5016 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 32: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 33: TIME 5008 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 34: TIME 5005 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 35: TIME 5007 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 36: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 37: TIME 5007 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 38: TIME 5005 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 39: TIME 5003 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 40: TIME 5005 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 41: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 42: TIME 5005 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 43: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 44: TIME 5005 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 45: TIME 5005 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 46: TIME 5001 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 47: TIME 5007 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 48: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 49: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 50: TIME 5005 empty database
+ Empty database. Sleeping...
+ Creating audio recorder...
+ AI Processing Iteration 51: TIME 5013 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 52: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 53: TIME 5007 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 54: TIME 5005 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 55: TIME 5009 empty database
+ Empty database. Sleeping...
+ Error during a recording $[Errno -9986] Internal PortAudio error. Sleeping.
+ AI Processing Iteration 56: TIME 5005 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 1: TIME 32020 error
+ AI Processing Iteration 57: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 58: TIME 5006 empty database
+ Empty database. Sleeping...
+ AI Processing Iteration 59: TIME 5002 empty database
+ Empty database. Sleeping...
+ Recording 2: TIME 13382 
+ Adding to db 2: TIME 8 
+ AI Processing Iteration 2: TIME 13394 
+ AI Processing Iteration 60: TIME 5006 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 61: TIME 5268 error
+ Empty database. Sleeping...
+ Recording 3: TIME 10391 
+ Adding to db 3: TIME 2 
+ AI Processing Iteration 3: TIME 10394 
+ AI Processing Iteration 62: TIME 5004 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 63: TIME 5022 error
+ Empty database. Sleeping...
+ Recording 4: TIME 10396 
+ Adding to db 4: TIME 2 
+ AI Processing Iteration 4: TIME 10400 
+ AI Processing Iteration 64: TIME 5004 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 65: TIME 5040 error
+ Empty database. Sleeping...
+ Recording 5: TIME 10393 
+ Adding to db 5: TIME 1 
+ AI Processing Iteration 5: TIME 10396 
+ AI Processing Iteration 66: TIME 5005 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 67: TIME 5029 error
+ Empty database. Sleeping...
+ Recording 6: TIME 10398 
+ Adding to db 6: TIME 1 
+ AI Processing Iteration 6: TIME 10400 
+ AI Processing Iteration 68: TIME 5005 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 69: TIME 5023 error
+ Empty database. Sleeping...
+ Recording 7: TIME 10393 
+ Adding to db 7: TIME 2 
+ AI Processing Iteration 7: TIME 10396 
+ AI Processing Iteration 70: TIME 5006 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 71: TIME 5028 error
+ Empty database. Sleeping...
+ Recording 8: TIME 10405 
+ Adding to db 8: TIME 1 
+ AI Processing Iteration 8: TIME 10406 
+ AI Processing Iteration 72: TIME 5004 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 73: TIME 5022 error
+ Empty database. Sleeping...
+ Recording 9: TIME 10397 
+ Adding to db 9: TIME 1 
+ AI Processing Iteration 9: TIME 10400 
+ AI Processing Iteration 74: TIME 5006 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 75: TIME 5018 error
+ Empty database. Sleeping...
+ Recording 10: TIME 10393 
+ Adding to db 10: TIME 1 
+ AI Processing Iteration 10: TIME 10395 
+ AI Processing Iteration 76: TIME 5004 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 77: TIME 5020 error
+ Empty database. Sleeping...
+ Recording 11: TIME 10399 
+ Adding to db 11: TIME 2 
+ AI Processing Iteration 11: TIME 10402 
+ AI Processing Iteration 78: TIME 5002 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 79: TIME 5025 error
+ Empty database. Sleeping...
+ Recording 12: TIME 10402 
+ Adding to db 12: TIME 2 
+ AI Processing Iteration 12: TIME 10406 
+ AI Processing Iteration 80: TIME 5003 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 81: TIME 5015 error
+ Empty database. Sleeping...
+ Recording 13: TIME 10404 
+ Adding to db 13: TIME 2 
+ AI Processing Iteration 13: TIME 10408 
+ AI Processing Iteration 82: TIME 5006 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 83: TIME 5015 error
+ Empty database. Sleeping...
+ Recording 14: TIME 10388 
+ Adding to db 14: TIME 2 
+ AI Processing Iteration 14: TIME 10392 
+ AI Processing Iteration 84: TIME 5006 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 85: TIME 5024 error
+ Empty database. Sleeping...
+ Recording 15: TIME 10393 
+ Adding to db 15: TIME 1 
+ AI Processing Iteration 15: TIME 10395 
+ AI Processing Iteration 86: TIME 5005 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 87: TIME 5013 error
+ Empty database. Sleeping...
+ AI Processing Iteration 88: TIME 5006 empty database
+ Empty database. Sleeping...
+ Recording 16: TIME 10428 
+ Adding to db 16: TIME 1 
+ AI Processing Iteration 16: TIME 10430 
+ AI Processing Iteration 89: TIME 5002 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 90: TIME 5015 error
+ Empty database. Sleeping...
+ Recording 17: TIME 10371 
+ Adding to db 17: TIME 2 
+ AI Processing Iteration 17: TIME 10376 
+ AI Processing Iteration 91: TIME 5006 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 92: TIME 5023 error
+ Empty database. Sleeping...
+ Recording 18: TIME 10390 
+ Adding to db 18: TIME 2 
+ AI Processing Iteration 18: TIME 10393 
+ AI Processing Iteration 93: TIME 5006 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 94: TIME 5016 error
+ Empty database. Sleeping...
+ Recording 19: TIME 10396 
+ Adding to db 19: TIME 5 
+ AI Processing Iteration 19: TIME 10402 
+ AI Processing Iteration 95: TIME 5002 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 96: TIME 5020 error
+ Empty database. Sleeping...
+ Recording 20: TIME 10422 
+ Adding to db 20: TIME 2 
+ AI Processing Iteration 20: TIME 10427 
+ AI Processing Iteration 97: TIME 5004 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 98: TIME 5028 error
+ Empty database. Sleeping...
+ Recording 21: TIME 10362 
+ Adding to db 21: TIME 1 
+ AI Processing Iteration 21: TIME 10366 
+ AI Processing Iteration 99: TIME 5002 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 100: TIME 5017 error
+ Empty database. Sleeping...
+ Recording 22: TIME 10409 
+ Adding to db 22: TIME 2 
+ AI Processing Iteration 22: TIME 10413 
+ AI Processing Iteration 101: TIME 5006 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 102: TIME 5027 error
+ Empty database. Sleeping...
+ Recording 23: TIME 10382 
+ Adding to db 23: TIME 1 
+ AI Processing Iteration 23: TIME 10383 
+ AI Processing Iteration 103: TIME 5005 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 104: TIME 5019 error
+ Empty database. Sleeping...
+ Recording 24: TIME 10407 
+ Adding to db 24: TIME 1 
+ AI Processing Iteration 24: TIME 10409 
+ AI Processing Iteration 105: TIME 5006 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 106: TIME 5029 error
+ Empty database. Sleeping...
+ Recording 25: TIME 10394 
+ Adding to db 25: TIME 1 
+ AI Processing Iteration 25: TIME 10395 
+ AI Processing Iteration 107: TIME 5006 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 108: TIME 5011 error
+ Empty database. Sleeping...
+ Recording 26: TIME 10404 
+ Adding to db 26: TIME 2 
+ AI Processing Iteration 26: TIME 10407 
+ AI Processing Iteration 109: TIME 5006 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 110: TIME 5023 error
+ Empty database. Sleeping...
+ Recording 27: TIME 10749 
+ Adding to db 27: TIME 1 
+ AI Processing Iteration 27: TIME 10753 
+ Error during a recording $[Errno -9986] Internal PortAudio error. Sleeping.
+ AI Processing Iteration 111: TIME 5001 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ Creating audio recorder...
+ AI Processing Iteration 112: TIME 5025 error
+ Empty database. Sleeping...
+ AI Processing Iteration 113: TIME 5013 empty database
+ Empty database. Sleeping...
+ Recording 1: TIME 10254 
+ Adding to db 1: TIME 2 
+ AI Processing Iteration 1: TIME 10258 
+ AI Processing Iteration 114: TIME 5005 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 115: TIME 5015 error
+ Empty database. Sleeping...
+ Recording 2: TIME 10266 
+ Adding to db 2: TIME 1 
+ AI Processing Iteration 2: TIME 10268 
+ AI Processing Iteration 116: TIME 5005 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 117: TIME 5017 error
+ Empty database. Sleeping...
+ Recording 3: TIME 10245 
+ Adding to db 3: TIME 2 
+ AI Processing Iteration 3: TIME 10248 
+ AI Processing Iteration 118: TIME 5000 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 119: TIME 5013 error
+ Empty database. Sleeping...
+ Recording 4: TIME 10264 
+ Adding to db 4: TIME 2 
+ AI Processing Iteration 4: TIME 10268 
+ AI Processing Iteration 120: TIME 5006 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 121: TIME 5014 error
+ Empty database. Sleeping...
+ Recording 5: TIME 10270 
+ Adding to db 5: TIME 1 
+ AI Processing Iteration 5: TIME 10272 
+ AI Processing Iteration 122: TIME 5005 empty database
+ Error during a transcoding $[Errno 2] No such file or directory: 'ffmpeg'
+ AI Processing Iteration 123: TIME 5006 error
+ Empty database. Sleeping...
+ Recording 6: TIME 10241 
+ Adding to db 6: TIME 1 
+ AI Processing Iteration 6: TIME 10243 
+ Recording 7: TIME 10290 
+ Adding to db 7: TIME 1 
+ AI Processing Iteration 7: TIME 10293 
+ Recording 8: TIME 10265 
+ Adding to db 8: TIME 1 
+ AI Processing Iteration 8: TIME 10267 
+ Recording 9: TIME 10278 
+ Adding to db 9: TIME 1 
+ AI Processing Iteration 9: TIME 10280 
+ Recording 10: TIME 10251 
+ Adding to db 10: TIME 1 
+ AI Processing Iteration 10: TIME 10254 
+ Recording 11: TIME 10265 
+ Adding to db 11: TIME 1 
+ AI Processing Iteration 11: TIME 10267 
+ Recording 12: TIME 10264 
+ Adding to db 12: TIME 2 
+ AI Processing Iteration 12: TIME 10267 
+ Recording 13: TIME 10266 
+ Adding to db 13: TIME 2 
+ AI Processing Iteration 13: TIME 10269 
+ Recording 14: TIME 10242 
+ Adding to db 14: TIME 1 
+ AI Processing Iteration 14: TIME 10244 
+ Recording 15: TIME 10245 
+ Adding to db 15: TIME 1 
+ AI Processing Iteration 15: TIME 10248 
+ Recording 16: TIME 10295 
+ Adding to db 16: TIME 1 
+ AI Processing Iteration 16: TIME 10298 
+ Starting transcode...
+ AiWhisper init: TIME 807 
+ Recording 17: TIME 10252 
+ Adding to db 17: TIME 3 
+ AI Processing Iteration 17: TIME 10258 
+ AiWhisper transcode: TIME 6071 
+ MP3 Conertation: TIME 207 
+ Job done. Remeaing queue size: 42
+ AI Processing Iteration 1: TIME 6327 
+ AiWhisper transcode: TIME 2056 
+ MP3 Conertation: TIME 133 
+ Job done. Remeaing queue size: 41
+ AI Processing Iteration 2: TIME 2192 
+ AiWhisper transcode: TIME 3288 
+ MP3 Conertation: TIME 145 
+ Job done. Remeaing queue size: 40
+ AI Processing Iteration 3: TIME 3437 
+ AiWhisper transcode: TIME 1046 
+ Recording 18: TIME 10331 
+ Adding to db 18: TIME 1 
+ AI Processing Iteration 18: TIME 10332 
+ MP3 Conertation: TIME 155 
+ Job done. Remeaing queue size: 40
+ AI Processing Iteration 4: TIME 1207 
+ AiWhisper transcode: TIME 821 
+ MP3 Conertation: TIME 130 
+ Job done. Remeaing queue size: 39
+ AI Processing Iteration 5: TIME 956 
+ AiWhisper transcode: TIME 784 
+ MP3 Conertation: TIME 143 
+ Job done. Remeaing queue size: 38
+ AI Processing Iteration 6: TIME 931 
+ AiWhisper transcode: TIME 675 
+ MP3 Conertation: TIME 132 
+ Job done. Remeaing queue size: 37
+ AI Processing Iteration 7: TIME 810 
+ AiWhisper transcode: TIME 617 
+ MP3 Conertation: TIME 142 
+ Job done. Remeaing queue size: 36
+ AI Processing Iteration 8: TIME 766 
+ AiWhisper transcode: TIME 1514 
+ MP3 Conertation: TIME 144 
+ Job done. Remeaing queue size: 35
+ AI Processing Iteration 9: TIME 1678 
+ AiWhisper transcode: TIME 919 
+ MP3 Conertation: TIME 134 
+ Job done. Remeaing queue size: 34
+ AI Processing Iteration 10: TIME 1056 
+ AiWhisper transcode: TIME 2160 
+ MP3 Conertation: TIME 141 
+ Job done. Remeaing queue size: 33
+ AI Processing Iteration 11: TIME 2304 
+ AiWhisper transcode: TIME 1122 
+ MP3 Conertation: TIME 139 
+ Job done. Remeaing queue size: 32
+ AI Processing Iteration 12: TIME 1264 
+ Recording 19: TIME 10259 
+ Adding to db 19: TIME 1 
+ AI Processing Iteration 19: TIME 10261 
+ AiWhisper transcode: TIME 2106 
+ MP3 Conertation: TIME 154 
+ Job done. Remeaing queue size: 32
+ AI Processing Iteration 13: TIME 2262 
+ AiWhisper transcode: TIME 750 
+ MP3 Conertation: TIME 137 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 14: TIME 889 
+ Empty database. Sleeping...
+ AI Processing Iteration 15: TIME 5005 empty database
+ Empty database. Sleeping...
+ Recording 20: TIME 10274 
+ Adding to db 20: TIME 2 
+ AI Processing Iteration 20: TIME 10278 
+ AI Processing Iteration 16: TIME 5006 empty database
+ AiWhisper transcode: TIME 755 
+ MP3 Conertation: TIME 136 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 17: TIME 896 
+ Empty database. Sleeping...
+ AI Processing Iteration 18: TIME 5005 empty database
+ Empty database. Sleeping...
+ Recording 21: TIME 10277 
+ Adding to db 21: TIME 1 
+ AI Processing Iteration 21: TIME 10279 
+ AI Processing Iteration 19: TIME 5002 empty database
+ AiWhisper transcode: TIME 1155 
+ MP3 Conertation: TIME 140 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 20: TIME 1299 
+ Empty database. Sleeping...
+ AI Processing Iteration 21: TIME 5006 empty database
+ Empty database. Sleeping...
+ Recording 22: TIME 10260 
+ Adding to db 22: TIME 1 
+ AI Processing Iteration 22: TIME 10263 
+ AI Processing Iteration 22: TIME 5004 empty database
+ AiWhisper transcode: TIME 1556 
+ MP3 Conertation: TIME 140 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 23: TIME 1702 
+ Empty database. Sleeping...
+ Recording 23: TIME 10262 
+ Adding to db 23: TIME 1 
+ AI Processing Iteration 23: TIME 10265 
+ AI Processing Iteration 24: TIME 5005 empty database
+ AiWhisper transcode: TIME 3681 
+ MP3 Conertation: TIME 135 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 25: TIME 3820 
+ Empty database. Sleeping...
+ AI Processing Iteration 26: TIME 5003 empty database
+ Empty database. Sleeping...
+ Recording 24: TIME 10273 
+ Adding to db 24: TIME 1 
+ AI Processing Iteration 24: TIME 10275 
+ AI Processing Iteration 27: TIME 5006 empty database
+ AiWhisper transcode: TIME 4805 
+ MP3 Conertation: TIME 138 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 28: TIME 4948 
+ Empty database. Sleeping...
+ Recording 25: TIME 10284 
+ Adding to db 25: TIME 1 
+ AI Processing Iteration 25: TIME 10287 
+ AI Processing Iteration 29: TIME 5005 empty database
+ AiWhisper transcode: TIME 577 
+ MP3 Conertation: TIME 132 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 30: TIME 714 
+ Empty database. Sleeping...
+ AI Processing Iteration 31: TIME 5006 empty database
+ Empty database. Sleeping...
+ Recording 26: TIME 10261 
+ Adding to db 26: TIME 1 
+ AI Processing Iteration 26: TIME 10264 
+ AI Processing Iteration 32: TIME 5003 empty database
+ AiWhisper transcode: TIME 685 
+ MP3 Conertation: TIME 139 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 33: TIME 829 
+ Empty database. Sleeping...
+ AI Processing Iteration 34: TIME 5005 empty database
+ Empty database. Sleeping...
+ Recording 27: TIME 10285 
+ Adding to db 27: TIME 2 
+ AI Processing Iteration 27: TIME 10288 
+ AI Processing Iteration 35: TIME 5006 empty database
+ AiWhisper transcode: TIME 2736 
+ MP3 Conertation: TIME 141 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 36: TIME 2881 
+ Empty database. Sleeping...
+ Recording 28: TIME 10264 
+ Adding to db 28: TIME 2 
+ AI Processing Iteration 28: TIME 10267 
+ AI Processing Iteration 37: TIME 5005 empty database
+ AiWhisper transcode: TIME 3196 
+ MP3 Conertation: TIME 134 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 38: TIME 3335 
+ Empty database. Sleeping...
+ Recording 29: TIME 10260 
+ Adding to db 29: TIME 2 
+ AI Processing Iteration 29: TIME 10263 
+ AI Processing Iteration 39: TIME 5006 empty database
+ AiWhisper transcode: TIME 4190 
+ MP3 Conertation: TIME 166 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 40: TIME 4363 
+ Empty database. Sleeping...
+ AI Processing Iteration 41: TIME 5002 empty database
+ Empty database. Sleeping...
+ Recording 30: TIME 10296 
+ Adding to db 30: TIME 2 
+ AI Processing Iteration 30: TIME 10300 
+ AI Processing Iteration 42: TIME 5004 empty database
+ AiWhisper transcode: TIME 648 
+ MP3 Conertation: TIME 134 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 43: TIME 787 
+ Empty database. Sleeping...
+ Recording 31: TIME 10264 
+ Adding to db 31: TIME 2 
+ AI Processing Iteration 31: TIME 10268 
+ AI Processing Iteration 44: TIME 5005 empty database
+ AiWhisper transcode: TIME 706 
+ MP3 Conertation: TIME 129 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 45: TIME 838 
+ Empty database. Sleeping...
+ AI Processing Iteration 46: TIME 5002 empty database
+ Empty database. Sleeping...
+ Recording 32: TIME 10254 
+ Adding to db 32: TIME 1 
+ AI Processing Iteration 32: TIME 10256 
+ AI Processing Iteration 47: TIME 5004 empty database
+ AiWhisper transcode: TIME 1864 
+ MP3 Conertation: TIME 136 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 48: TIME 2005 
+ Empty database. Sleeping...
+ AI Processing Iteration 49: TIME 5005 empty database
+ Empty database. Sleeping...
+ Recording 33: TIME 10265 
+ Adding to db 33: TIME 1 
+ AI Processing Iteration 33: TIME 10267 
+ AI Processing Iteration 50: TIME 5007 empty database
+ AiWhisper transcode: TIME 887 
+ MP3 Conertation: TIME 139 
+ Job done. Remeaing queue size: 31
+ AI Processing Iteration 51: TIME 1032 
+ Empty database. Sleeping...
+ AI Processing Iteration 52: TIME 5005 empty database
+ Empty database. Sleeping...
+ 
