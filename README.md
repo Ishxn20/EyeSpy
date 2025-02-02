@@ -67,7 +67,7 @@ This system:
 ## **Project Structure**
 The project follows a **modular structure** for scalability and maintainability.
 
-```bash
+```
 EyeSpy/
 │── README.md                  # Project documentation
 │── requirements.txt            # List of required dependencies
@@ -84,7 +84,7 @@ EyeSpy/
 │   ├── conversation_YYYYMMDD_HHMMSS.wav
 │── gui/                        # GUI-related files
 │── logs/                       # Stores logs of detections & errors
-
+```
 
 Installation
 
